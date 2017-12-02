@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Lars, empezando el proyecto del OBDII.
+
